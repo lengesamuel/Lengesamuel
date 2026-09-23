@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Lenge Samuel 👋
 
-<!--
-**lengesamuel/Lengesamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Geospatial Data Scientist | Data Analyst | Python Developer**
+Based in Abuja, Nigeria
 
-Here are some ideas to get you started:
+I work at the intersection of logistics, geospatial analytics, and machine learning — building practical, reproducible tools for real-world mobility problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Tech Stack
+`Python` `SQL` `Pandas` `GeoPandas` `Scikit-learn` `QGIS` `Git` `Jupyter`
+
+#### 🔭 What I'm focused on now
+- Fleet trajectory analysis & route optimization
+- Geospatial data cleaning and anomaly detection (DBSCAN, Isolation Forest)
+- Building open, reproducible data science pipelines
+- Exploring PhD opportunities in Data Science & Complex Systems
+
+#### 📌 Featured Projects
+- **[Fleet Trajectory Modeling](https://github.com/lengesamuel/fleet-trajectory-modeling)** - Optimizing Abuja-Kaduna logistics routes with GPS analysis | Python, GeoPandas
+- *More projects coming soon*
+
+#### 📫 Connect with me
+- LinkedIn: `linkedin.com/in/lengesamuel` (replace with your link)
+- Email: available via GitHub profile
+- Location: Abuja, FCT - open to remote collaboration
+
+---
+*Open to collaborations on geospatial, logistics, and open-data projects.*
