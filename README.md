@@ -21,7 +21,7 @@ I work at the intersection of logistics, geospatial analytics, and machine learn
 - *More projects coming soon*
 
 #### 📫 Connect with me
-- LinkedIn: `linkedin.com/in/lengesamuel` (replace with your link)
+- LinkedIn: `linkedin.com/in/samuel-lenge`
 - Email: available via GitHub profile
 - Location: Abuja, FCT - open to remote collaboration
 
